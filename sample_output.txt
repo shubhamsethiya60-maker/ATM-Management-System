@@ -1,0 +1,39 @@
+====================================
+       ATM MANAGEMENT SYSTEM
+====================================
+
+Enter account number: 1001
+Enter your PIN: 1234
+Login successful!
+Welcome Rahul
+
+========== ATM MENU ==========
+1. Check Balance
+2. Withdraw Money
+3. Deposit Money
+4. Change PIN
+5. Mini Statement
+6. Exit
+==============================
+Enter your choice: 1
+
+Current balance: ₹ 10000
+
+Enter your choice: 2
+Enter amount to withdraw: ₹2000
+Please collect your cash.
+Remaining balance: ₹ 8000
+
+Enter your choice: 3
+Enter amount to deposit: ₹1000
+Amount deposited successfully.
+New balance: ₹ 9000
+
+Enter your choice: 5
+
+========== MINI STATEMENT ==========
+Withdrawn: ₹2000.0
+Deposited: ₹1000.0
+------------------------------------
+Current Balance: ₹ 9000
+====================================
